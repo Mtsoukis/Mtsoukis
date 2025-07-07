@@ -1,41 +1,24 @@
-<!-- Mtsoukis's GitHub Profile README -->
+Hi, I'm Marios.
 
-<h1 align="center" style="color:#66aaff;">Hi, I'm Marios</h1>
----
+This is my GitHub where I share projects, notes and works in progress. They will be mostly in Trade, Political Economy, Economic History, IO, Macroeconomics, and Computational Methods.
 
-## 🌐 About Me
+**I am currently working on:**  
+Replicating the model from "Trade and Domestic Distortions: The Case of Informality" in Julia. 
 
-- 🇬🇷 Economics student from Greece
-- Interested in:
-  - <span style="color:#ffab40">Trade</span>
-  - <span style="color:#ff5252">Political Economy</span>
-  - <span style="color:#8aff80">Economic History</span>
-  - <span style="color:#ffd740">Industrial Organization (IO)</span>
-  - <span style="color:#40c4ff">Macroeconomics</span>
-  - <span style="color:#64ffda">Computational Methods</span>
+**Book I last read:**  
+Triumph of the City by Ed Glaeser
 
----
+**Book I am now reading:**  
+(e.g., Metropolis by Ben Wilson)
 
-## 🎾 Hobbies
+**Song I am currently listening to a lot:**  
+(e.g., add your favorite track)
 
-- Tennis
-- Chess
-- Cycling
-- Hiking
+**Something I am curious about now:**  
+Historical hypotheses 
 
----
-
-## 📚 Favorite Books
-
-- <b>Triumph of the City</b> by Ed Glaeser  
-  <sub>Why cities drive progress and innovation.</sub>
-- <b>Homage to Catalonia</b> by George Orwell  
-  <sub>A personal look at history, politics, and conviction.</sub>
-- <b>Metropolis</b> by Ben Wilson  
-  <sub>Chronicles the energy and complexity of great cities.</sub>
-
----
-
+**Something I enjoyed over last month:**  
+Watching Fluminense vs Ulsan 
 <!--
 **Mtsoukis/Mtsoukis** is a ✨ special repository ✨ because its `README.md` appears on your GitHub profile.
 -->
