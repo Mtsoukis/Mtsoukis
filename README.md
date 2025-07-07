@@ -3,20 +3,21 @@
 <h1 align="center" style="color:#66aaff;">Hi, I'm Mtsoukis</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/economics-student-2d2d2d?style=flat-square&logo=graduation-cap&logoColor=66aaff" alt="Economics Student Badge">
+  <img src="https://img.shields.io/badge/Economics-Student-2d2d2d?style=flat-square&logo=graduation-cap&logoColor=66aaff" alt="Economics Student Badge">
 </p>
 
 ---
 
 ## 🌐 About Me
 
-- 🎓 Economics student with a passion for understanding how the world works through data, theory, and curiosity.
-- 🏛️ My interests span:
+- 🇬🇷 Economics student from Greece
+- Interested in:
   - <span style="color:#ffab40">Trade</span>
   - <span style="color:#ff5252">Political Economy</span>
-  - <span style="color:#64ffda">Computational Economics</span>
+  - <span style="color:#8aff80">Economic History</span>
   - <span style="color:#ffd740">Industrial Organization (IO)</span>
   - <span style="color:#40c4ff">Macroeconomics</span>
+  - <span style="color:#64ffda">Computational Methods</span>
 
 ---
 
