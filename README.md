@@ -1,11 +1,6 @@
 <!-- Mtsoukis's GitHub Profile README -->
 
 <h1 align="center" style="color:#66aaff;">Hi, I'm Marios</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Economics-Student-2d2d2d?style=flat-square&logo=graduation-cap&logoColor=66aaff" alt="Economics Student Badge">
-</p>
-
 ---
 
 ## 🌐 About Me
