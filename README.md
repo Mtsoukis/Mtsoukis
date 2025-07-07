@@ -1,21 +1,21 @@
 Hi, I'm Marios.
 
-This is my GitHub where I share projects, notes and works in progress. They will be mostly in Trade, Political Economy, Economic History, IO, Macroeconomics, and Computational Methods.
+This is my GitHub where I share projects, notes, thoughts and works in progress.
 
 **I am currently working on:**  
 Replicating the model from "Trade and Domestic Distortions: The Case of Informality" in Julia. 
 
-**Book I last read:**  
-Triumph of the City by Ed Glaeser
+**Favourite Book:**  
+The 39 Steps by Buchan
 
 **Book I am now reading:**  
-(e.g., Metropolis by Ben Wilson)
+Nature's Metropolis by Cronon 
 
-**Song I am currently listening to a lot:**  
-(e.g., add your favorite track)
+**Favourite TV Show:**  
+Arrested Development
 
 **Something I am curious about now:**  
-Historical hypotheses 
+Historical hypotheses that can be tested with economic toolbox
 
 **Something I enjoyed over last month:**  
 Watching Fluminense vs Ulsan 
