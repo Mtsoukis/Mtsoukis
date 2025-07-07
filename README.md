@@ -14,6 +14,6 @@ Nature's Metropolis by Cronon
 **Favourite TV Show:**  
 Arrested Development
 
-**I support <img src="Images/AEK_logo.svg" alt="AEK Athens" width="12"/> AEK Athens**
+**Proud supporter of AEK Athens <img src="Images/AEK_logo.svg" alt="AEK Athens" width="10"/>**
 <!--
 -->
