@@ -15,7 +15,5 @@ Nature's Metropolis by Cronon
 Arrested Development
 
 **Proud supporter of AEK Athens <img src="Images/AEK_logo.svg" alt="AEK Athens" width="12"/>**
-
-**Αθηναίος/ Athenian**
 <!--
 -->
