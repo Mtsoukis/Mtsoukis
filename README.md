@@ -4,6 +4,7 @@ This is my GitHub where I plan on sharing projects, notes, thoughts, coursework 
 
 **I am currently working on:**  
 Replicating the model from "Trade and Domestic Distortions: The Case of Informality" in Julia. 
+Digitizing trade data from the 40-60s USA- repo coming soon. 
 
 **Favourite Book:**  
 The 39 Steps by Buchan
