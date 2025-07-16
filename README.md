@@ -10,7 +10,7 @@ Digitizing trade data from the 40-60s USA- repo coming soon.
 **Favourite Book:**  
 The 39 Steps by Buchan
 
-**Book I am now reading:**  
+**Currently reading:**  
 Nature's Metropolis by Cronon 
 
 **Favourite TV Show:**  
